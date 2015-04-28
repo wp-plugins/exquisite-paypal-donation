@@ -4,7 +4,7 @@
   Version: v1.0
   Plugin URI: http://www.dream-scape.net
   Author: DreamScape Cyber-Magnet
-  Author URI: http://www.dream-scape.net
+  Author URI: http://www.dream-scape.net/plugins/
   Description: Add an extensive, easily configurable, PayPal donation form as a widgit or a shortcode
   License: GPL2
  */
