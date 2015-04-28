@@ -3,7 +3,7 @@
   Plugin Name: Exquisite PayPal Donation
   Version: v1.0
   Plugin URI: http://www.dream-scape.net
-  Author: DreamScape Syber-Magnet
+  Author: DreamScape Cyber-Magnet
   Author URI: http://www.dream-scape.net
   Description: Add an extensive, easily configurable, PayPal donation form as a widgit or a shortcode
   License: GPL2
