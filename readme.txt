@@ -4,7 +4,7 @@ Tags: Paypal payment, paypal, pay pal , WordPress PayPAl donation, PayPal donati
 Donate link: http://www.dream-scape.net/plugins/exq
 Requires at least: 3.5
 Tested up to: 4.2.1
-Stable tag: 4.2.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
@@ -37,3 +37,11 @@ Unzip and Upload the folder 'Exquisite-PayPal-Donation' to the '/wp-content/plug
 1. Option page
 2. multi currency drop down
 3. Easily design your form with a simple CSS class system
+
+== Changelog ==
+
+= 1.0.2 =
+* Button size issue fixed.
+
+
+

@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: Exquisite PayPal Donation
-  Version: v1.0
+  Version: v1.0.2
   Plugin URI: http://www.dream-scape.net
   Author: DreamScape Cyber-Magnet
   Author URI: http://www.dream-scape.net/plugins/
@@ -25,7 +25,7 @@
 
 
 //==========================Constants=======================================//
-define('Exq_ppd_VERSION', '1.0');
+define('Exq_ppd_VERSION', '1.0.1');
 define('Exq_ppd_PLUGIN_URL', plugins_url('', __FILE__));
 //=========================================================================//
 
